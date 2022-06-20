@@ -659,8 +659,7 @@ p.c.
 
 
 ## **Question 7**
-## **Question 7**
-### 1
+
 Writing the small app:
 ```
 from flask import Flask, render_template, request, redirect, url_for, flash
@@ -685,7 +684,7 @@ if __name__ == "__main__":
     app.run(port=3000, debug=True)
 
 ```
-### 2
+### 1
 This is my mysql table:
 ```
 	CREATE TABLE `bridgerpaytable` (
